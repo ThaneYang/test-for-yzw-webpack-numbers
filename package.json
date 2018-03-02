@@ -1,0 +1,15 @@
+{
+  "name": "test-for-yzw-webpack-numbers",
+  "version": "1.0.0",
+  "description": "测试在项目中引入新建的yzw-webpack-numbers包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.5",
+    "yzw-webpack-numbers": "^1.0.5"
+  }
+}
