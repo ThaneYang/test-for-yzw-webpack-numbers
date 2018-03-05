@@ -11,5 +11,14 @@
   "devDependencies": {
     "lodash": "^4.17.5",
     "yzw-webpack-numbers": "^1.0.5"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq269392251/test-for-yzw-webpack-numbers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qq269392251/test-for-yzw-webpack-numbers/issues"
+  },
+  "homepage": "https://github.com/qq269392251/test-for-yzw-webpack-numbers#readme"
 }
